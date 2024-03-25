@@ -4,7 +4,7 @@
 
 title: Peachy Homepage
 
-background: https://unsplash.com/photos/an-underwater-view-of-a-colorful-coral-reef-HYHYGLs-Rp8
+background: https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
 
 providers:
   openweathermap: openweathermapapikey
