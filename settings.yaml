@@ -4,6 +4,8 @@
 
 title: Peachy Homepage
 
+background: https://unsplash.com/photos/an-underwater-view-of-a-colorful-coral-reef-HYHYGLs-Rp8
+
 providers:
   openweathermap: openweathermapapikey
   weatherapi: weatherapiapikey
