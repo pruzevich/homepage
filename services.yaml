@@ -30,7 +30,7 @@
         href: http://10.11.12.12/admin
         widget:
           type: pihole
-          url: http://10.11.12.12
+          url: http://10.11.12.12/admin/api.php?status&auth=<TOKEN>
           key: "{{HOMEPAGE_VAR_PIHOLE_API_KEY}}" # optional
 
 - My Third Group:
