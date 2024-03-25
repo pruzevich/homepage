@@ -4,7 +4,7 @@
 
 title: Peachy Homepage
 
-background: https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+background: https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg
 
 providers:
   openweathermap: openweathermapapikey
