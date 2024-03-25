@@ -6,7 +6,7 @@ title: Peachy Homepage
 
 background:
   image: https://images.pexels.com/photos/1366630/pexels-photo-1366630.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-  blur: sm
+  blur: sm # amount to blur ex. small, med, xl
   saturate: 50
   brightness: 50
   opacity: 50
